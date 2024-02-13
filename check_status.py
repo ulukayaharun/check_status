@@ -1,4 +1,4 @@
-from sendmail import sendmail
+from sendmail import sendmail #it is my another function you may find it in my repositories
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
